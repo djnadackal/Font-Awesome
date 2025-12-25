@@ -28,3 +28,30 @@ Please do not submit icon requests as issues. Instead, please use Github's Discu
 - The files in this repository are generated elsewhere and we do not merge PR's directly into master
 - Try not to pollute your pull request with unintended changes–keep them simple and small
 - Try to share which browsers your code has been tested in before submitting a pull request
+
+
+---
+
+## 🎉 Open Source Event Contributions
+
+This repository is being used as part of an open-source contribution event.
+
+### Who Can Contribute?
+- Beginners and intermediate contributors
+- Prior experience with Font Awesome is NOT required
+
+### Recommended Issues
+- Look for issues labeled `good first issue`, `beginner`, or `intermediate`
+- UI, documentation, accessibility, and code-quality improvements are encouraged
+
+### Event Contribution Steps (Quick Checklist)
+1. Fork this repository
+2. Create a new branch from the default branch
+3. Pick one issue and comment to get assigned
+4. Make small, focused changes
+5. Open a Pull Request using the provided PR template
+
+### Important Notes
+- Do not modify core library logic unless the issue explicitly asks for it
+- Keep PRs small and easy to review
+- Maintainers and mentors will help during the event

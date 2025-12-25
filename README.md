@@ -89,3 +89,28 @@ learn about Font Awesome.
 ## Team
 
 https://github.com/orgs/FortAwesome/people
+
+
+---
+
+## Open Source Event Contributions
+
+This repository is being used as part of an open-source contribution event.
+
+### Who Can Contribute?
+- Beginners and intermediate contributors
+- No prior experience with Font Awesome required
+
+### Contribution Areas
+- Documentation improvements
+- Examples and usage guides
+- Code readability and small enhancements
+
+### How to Contribute
+1. Fork this repository
+2. Clone your fork locally
+3. Pick an issue labeled `good first issue` or `intermediate`
+4. Create a new branch
+5. Open a Pull Request
+
+Maintainers and mentors will guide contributors during the event.
